@@ -1,0 +1,2 @@
+# Self-Destruct-Core
+boom
