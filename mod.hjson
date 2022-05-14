@@ -1,0 +1,6 @@
+name: self-destruct-core
+displayName: Self-Destruct Core
+description: Adds a self-destruct button for cores.
+author: Mythril
+version: 0.1
+minGameVersion: 136
